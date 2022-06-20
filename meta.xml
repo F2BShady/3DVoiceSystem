@@ -1,0 +1,6 @@
+<meta>
+    <info type="script" />
+    <script src="3dvoiceserver.lua" type="server"/>
+	<script src="3dvoicegui.lua" type="client"/>
+	<file src="voice.png" />
+</meta>
